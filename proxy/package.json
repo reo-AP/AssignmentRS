@@ -1,0 +1,25 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha -r ts-node/register 'test/*.js'"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/h2o2": "^10.0.1",
+    "@hapi/hapi": "^21.3.1",
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.3",
+    "hapi-winston": "^2.5.0",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3",
+    "ts-node": "^10.9.1",
+    "winston": "^3.8.2",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}

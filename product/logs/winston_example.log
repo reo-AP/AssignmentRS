@@ -1,0 +1,713 @@
+[2023-04-20T01:48:27.688Z] error: Create Product. {"status":"failure","service":"products","issue":"E11000 duplicate key error collection: app.products index: productId_1 dup key: { productId: 100 }"}
+[2023-04-20T01:48:45.443Z] info: Create Product. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: Server - There was something wrong: OverwriteModelError: Cannot overwrite `Product` model once compiled.. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T00:44:45.426Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T00:45:37.282Z] info: Products get all. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T00:46:12.759Z] info: Products get all. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T00:50:47.721Z] info: Products get all. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T00:51:37.416Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T00:51:37.454Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cast to Number failed for value \"randomUrl\" (type string) at path \"productId\" for model \"Product\""}
+[2023-04-24T00:51:37.472Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[2023-04-24T00:51:37.473Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T00:51:37.483Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T00:52:11.233Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T00:52:11.270Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cast to Number failed for value \"randomUrl\" (type string) at path \"productId\" for model \"Product\""}
+[2023-04-24T00:52:11.278Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[2023-04-24T00:52:11.279Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T00:52:11.288Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T00:52:55.990Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T00:52:56.024Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cast to Number failed for value \"randomUrl\" (type string) at path \"productId\" for model \"Product\""}
+[2023-04-24T00:52:56.034Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[2023-04-24T00:52:56.035Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T00:52:56.052Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T00:53:49.664Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T00:53:49.690Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cast to Number failed for value \"randomUrl\" (type string) at path \"productId\" for model \"Product\""}
+[2023-04-24T00:53:49.698Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[2023-04-24T00:53:49.698Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T00:53:49.712Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T00:54:41.578Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T00:54:41.608Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cast to Number failed for value \"randomUrl\" (type string) at path \"productId\" for model \"Product\""}
+[2023-04-24T00:54:41.616Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[2023-04-24T00:54:41.617Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T00:54:41.637Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T00:55:20.277Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T00:55:20.305Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cast to Number failed for value \"randomUrl\" (type string) at path \"productId\" for model \"Product\""}
+[2023-04-24T00:55:20.313Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[2023-04-24T00:55:20.314Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T00:55:20.335Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[2023-04-24T00:55:41.473Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T00:56:43.207Z] error: Unknown path. {"status":"failure","service":"products","issue":"unknown path"}
+[2023-04-24T00:56:50.226Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T00:57:56.105Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T00:57:56.131Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cast to Number failed for value \"randomUrl\" (type string) at path \"productId\" for model \"Product\""}
+[2023-04-24T00:57:56.138Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[2023-04-24T00:57:56.139Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T00:57:56.157Z] info: Get Product By Id. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:00:02.014Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:00:02.042Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cast to Number failed for value \"randomUrl\" (type string) at path \"productId\" for model \"Product\""}
+[2023-04-24T01:00:02.052Z] info: Get Product By Id. {"status":"Success1","service":"products"}
+[2023-04-24T01:00:02.052Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T01:00:02.074Z] info: Get Product By Id. {"status":"Success1","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:01:04.104Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:01:04.131Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cast to Number failed for value \"randomUrl\" (type string) at path \"productId\" for model \"Product\""}
+[2023-04-24T01:01:04.137Z] info: Get Product By Id. {"status":"Success1","service":"products"}
+[2023-04-24T01:01:04.138Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T01:01:04.167Z] info: Get Product By Id. {"status":"Success1","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:02:49.515Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:02:49.536Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:02:49.545Z] info: Get Product By Id. {"status":"Success1","service":"products"}
+[2023-04-24T01:02:49.546Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T01:02:49.567Z] info: Get Product By Id. {"status":"Success1","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:03:51.605Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:03:51.625Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:03:51.634Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1"}
+[2023-04-24T01:03:51.635Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')"}
+[2023-04-24T01:03:51.654Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:05:00.847Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:05:00.864Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:05:00.872Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1"}
+[2023-04-24T01:05:00.872Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1"}
+[2023-04-24T01:05:00.892Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:05:50.039Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:05:50.055Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:05:50.064Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:05:50.082Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:06:14.969Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:06:14.989Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:06:14.998Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1"}
+[2023-04-24T01:06:14.999Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1"}
+[2023-04-24T01:06:15.022Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:06:53.119Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:06:53.137Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:06:53.147Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:06:53.165Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"100"}
+[2023-04-24T01:07:56.188Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:07:58.242Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:08:54.693Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:08:54.710Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:08:54.718Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:08:54.737Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"100"}
+[2023-04-24T01:08:56.242Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:09:40.013Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:09:40.030Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:09:40.039Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:09:40.057Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"100"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:10:26.640Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:10:26.657Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:10:26.666Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:10:26.686Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"100"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:10:50.929Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:10:50.946Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:10:50.954Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:10:50.974Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:10:50.974Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:11:44.975Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:11:44.996Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:11:45.005Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:11:45.024Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:11:45.024Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:12:17.143Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:12:17.162Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:12:17.171Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:12:17.190Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:12:17.191Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:13:04.813Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:13:04.833Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:13:04.842Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:13:04.860Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:13:04.861Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:13:23.944Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:13:23.960Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:13:23.968Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:13:23.986Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:13:23.987Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:13:47.233Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:13:47.250Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:13:47.259Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:13:47.270Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:13:47.271Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:14:12.663Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:14:12.680Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:14:12.689Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:14:12.701Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:14:12.702Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:14:24.281Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:14:24.298Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:14:24.307Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:14:24.315Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:14:24.315Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:22:18.994Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:22:19.018Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:22:19.029Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:22:19.040Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:22:19.040Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[2023-04-24T01:22:20.897Z] info: Products get all. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:24:21.057Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:24:21.076Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:24:21.084Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:24:21.084Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:26:00.925Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:26:00.947Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:26:00.956Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:26:00.964Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:26:00.964Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:26:26.171Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:26:26.198Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:26:26.207Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:26:26.216Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:26:26.217Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:26:46.567Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:26:46.592Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:26:46.601Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:26:46.610Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:26:46.611Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:28:47.863Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:28:47.888Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:28:47.896Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:28:47.905Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:28:47.905Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:29:45.648Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:29:45.683Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:29:45.693Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:29:45.703Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:29:45.704Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:33:45.217Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:33:45.234Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:33:45.244Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:33:45.244Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:39:42.654Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:39:42.672Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:39:42.681Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:39:42.681Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:41:25.472Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:41:25.502Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:41:25.514Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:41:25.522Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:41:25.523Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:42:21.019Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:42:21.044Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:42:21.053Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:42:21.060Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:42:21.061Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:43:12.066Z] info: Products get all. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:43:35.790Z] info: Products get all. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:43:49.694Z] info: Products get all. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:44:10.760Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:44:10.784Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:44:10.796Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:44:10.804Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:44:10.805Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:47:03.843Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:47:03.860Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:47:03.870Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:47:03.870Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:47:19.545Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:47:19.561Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:47:19.570Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:47:19.571Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:48:00.329Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:48:00.346Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:48:00.355Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:48:00.355Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:48:19.460Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:48:19.480Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:48:19.488Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:48:19.489Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:51:05.238Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:51:05.255Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:51:05.264Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:51:05.265Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:52:25.303Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:52:25.321Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:52:25.330Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:52:25.330Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:52:41.547Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:52:41.565Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:52:41.574Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:52:41.574Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:55:31.100Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:55:31.118Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:55:31.127Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:55:31.128Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:55:56.894Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:55:56.911Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:55:56.921Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:55:56.921Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:56:38.347Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:56:38.365Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:56:38.374Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:56:38.374Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:57:10.530Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:57:10.549Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:57:10.558Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:57:10.559Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T01:58:28.142Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T01:58:28.159Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T01:58:28.167Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T01:58:28.167Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T02:01:08.070Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:01:08.087Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T02:01:08.096Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T02:01:08.096Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T02:02:50.795Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:02:50.812Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T02:02:50.821Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T02:02:50.821Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T02:03:13.926Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:03:13.944Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T02:03:13.954Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T02:03:13.954Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T02:03:37.117Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:03:37.134Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T02:03:37.142Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T02:03:37.143Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T02:04:11.416Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:04:11.432Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T02:04:11.440Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T02:04:11.441Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T02:07:34.912Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:07:34.930Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T02:07:34.938Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T02:07:34.939Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T02:07:57.655Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:07:57.674Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T02:07:57.684Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T02:07:57.685Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T02:11:17.119Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:11:17.140Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T02:11:17.149Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T02:11:17.150Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T02:11:27.120Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:11:27.145Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:11:27.153Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T02:11:27.161Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T02:11:27.162Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T02:11:47.623Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:11:47.645Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T02:11:47.655Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"10"}
+[2023-04-24T02:11:47.664Z] info: Get Product By Id. {"status":"Success1","service":"products","id":"1000"}
+[2023-04-24T02:11:47.664Z] error: Get Product By Id. {"status":"failure","service":"products","issue":"Cannot read properties of undefined (reading 'name')","id":"1000"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T03:34:13.701Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:34:40.079Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:37:03.625Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:38:57.304Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:40:33.039Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:41:08.825Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:41:33.664Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:42:32.246Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:42:49.083Z] info: Products get all. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T03:47:44.861Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:47:58.951Z] info: Products get all. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T03:48:22.321Z] info: Products get all. {"status":"Success","service":"products"}
+[undefined] info: Router - Start adding routes. undefined
+[undefined] info: ProductRoutes - Start adding product routes. undefined
+[undefined] info: ProductRoutes - Finish adding product routes. undefined
+[undefined] info: Router - Finish adding routes. undefined
+[undefined] info: Server - Up and running at http://localhost:8400. undefined
+[2023-04-24T03:48:42.355Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:51:19.336Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:52:23.839Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:54:48.735Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:56:15.722Z] info: Products get all. {"status":"Success","service":"products"}
+[2023-04-24T03:56:27.404Z] info: Products get all. {"status":"Success","service":"products"}
