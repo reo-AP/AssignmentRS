@@ -4,9 +4,10 @@ let chaiHttp = require('chai-http');
 chai.use(chaiHttp);
 let should = chai.should();
 const sinon = require("sinon");
+require('dotenv').config()
 import ProductController from '../src/controllers/product.controller'
-
-
+import { logger } from '../src/util/logger';
+let id = 120;
 
 describe('Products Test', () => {
   let server;
@@ -15,8 +16,8 @@ describe('Products Test', () => {
     server = await AppServer.start();
 });
 
-afterEach(async () => {
-    // await server.stop();
+after(async () => {
+    server.stop();
 });
 
   describe('/products', () => {
@@ -27,8 +28,6 @@ afterEach(async () => {
           "company": "Some COmpany",
           "price": 2,
       }]
-      ProductController = new ProductController();
-        const stub = sinon.stub(ProductController, 'listProduct').returns(stubValue);
         chai.request("http://localhost:8400")
             .get('/products')
             .end((err, res) => {              
@@ -39,7 +38,7 @@ afterEach(async () => {
             });
       });
 
-      it('it should eturn an error', (done) => {
+      it('it should return an error', (done) => {
         chai.request("http://localhost:8400")
             .get('/products')
             .end((err, res) => {
@@ -75,5 +74,81 @@ afterEach(async () => {
           });
       });
     });
+
+    describe('/products post', () => {
+      it('post product', (done) => {
+        chai.request("http://localhost:8400")
+        .post('/products/post')
+        .send({
+          "productId": id,
+          "name": "Some Product",
+          "company": "Some COmpany",
+          "price": 2,
+          })
+        .end((err, res) => {              
+                  res.should.have.status(200);
+                  res.body.should.be.a('object');
+                  res.body.should.have.property('name');
+                  res.body.should.have.property('price');
+                  res.body.should.have.property('company');
+                  res.body.should.have.property('productId')
+              done();
+            });
+      });
+
+      it('it should return an error', (done) => {
+        chai.request("http://localhost:8400")
+            .post('/products/post')
+            .send({
+              "productId": id,
+              "name": "Some Product",
+              "company": "Some COmpany",
+              "price": 2,
+          })
+            .end((err, res) => {
+                  res.should.have.status(200);
+                  res.body.should.be.a('object')
+                  res.body.should.have.property('status').eq('Not Created');
+              done();
+            });
+      });
+  });
+
+  describe('/products delete', () => {
+    it('delete product', (done) => {
+      chai.request("http://localhost:8400")
+      .delete('/products/120')
+      .end((err, res) => {              
+                res.should.have.status(200);
+                res.body.should.be.a('object');
+                res.body.should.have.property('deleted').eq(true);
+            done();
+          });
+    });
+
+    it('it should return an error', (done) => {
+      chai.request("http://localhost:8400")
+          .delete('/products/120')
+          .end((err, res) => {
+                res.should.have.status(200);
+                res.body.should.be.a('object')
+                res.body.should.have.property('status').eq('Not Found');
+            done();
+          });
+    });
+});
+
+describe('route not found', () => {
+  it('route not found', (done) => {
+    chai.request("http://localhost:8400")
+    .delete('/products/somerandomroute/120')
+    .end((err, res) => {   
+              res.should.have.status(process.env.PORT2);
+              res.body.should.be.a('object');
+              res.body.should.have.property('status').eq("Path not found");
+          done();
+        });
+  });
+})
 
 });
